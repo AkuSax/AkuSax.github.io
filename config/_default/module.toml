@@ -1,0 +1,1 @@
+toml [module] [[module.imports]] path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5"
