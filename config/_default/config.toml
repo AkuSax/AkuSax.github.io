@@ -1,0 +1,5 @@
+baseURL = "https://AkuSax.github.io/"
+title = "Akul Saxena"
+paginate = 10
+theme = "wowchemy"
+buildDrafts = false
