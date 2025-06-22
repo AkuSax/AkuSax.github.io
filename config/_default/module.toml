@@ -1,4 +1,3 @@
-[module]                   # <-- parent table
-
-  [[module.imports]]       # <-- array-of-tables
+[module]
+  [[module.imports]]
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5"
