@@ -1,5 +1,10 @@
+# In config/_default/config.toml
+
 baseURL = "https://AkuSax.github.io/"
 title = "Akul Saxena"
 [pagination]
   pagerSize = 10
 buildDrafts = false
+
+# Change the theme to the folder name
+theme = "wowchemy"

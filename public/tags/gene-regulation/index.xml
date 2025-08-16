@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gene Regulation on Akul Saxena</title>
+    <link>http://localhost:1313/tags/gene-regulation/</link>
+    <description>Recent content in Gene Regulation on Akul Saxena</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gene-regulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predicting RNA‑seq coverage from DNA sequence as a unifying model of gene regulation</title>
+      <link>http://localhost:1313/publication/sample/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sample/</guid>
+      <description>A convolutional model explains 82 % of variance in exon‑level coverage across 500 GTEx samples.</description>
+    </item>
+  </channel>
+</rss>
