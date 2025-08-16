@@ -1,19 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gene Regulation on Akul Saxena</title>
+    <title>Gene Regulation | Akul Saxena</title>
     <link>http://localhost:1313/tags/gene-regulation/</link>
-    <description>Recent content in Gene Regulation on Akul Saxena</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gene-regulation/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://localhost:1313/tags/gene-regulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gene Regulation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_43cf117bf1a42c34.png</url>
+      <title>Gene Regulation</title>
+      <link>http://localhost:1313/tags/gene-regulation/</link>
+    </image>
+    
     <item>
       <title>Predicting RNA‑seq coverage from DNA sequence as a unifying model of gene regulation</title>
       <link>http://localhost:1313/publication/sample/</link>
       <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/sample/</guid>
-      <description>A convolutional model explains 82 % of variance in exon‑level coverage across 500 GTEx samples.</description>
+      <description>&lt;p&gt;We propose a unified model that predicts RNA‑seq coverage directly from DNA sequence, bridging promoter and splicing regulation.&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

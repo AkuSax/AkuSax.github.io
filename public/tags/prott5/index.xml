@@ -1,19 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ProtT5 on Akul Saxena</title>
+    <title>ProtT5 | Akul Saxena</title>
     <link>http://localhost:1313/tags/prott5/</link>
-    <description>Recent content in ProtT5 on Akul Saxena</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/prott5/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://localhost:1313/tags/prott5/index.xml" rel="self" type="application/rss+xml" />
+    <description>ProtT5</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_43cf117bf1a42c34.png</url>
+      <title>ProtT5</title>
+      <link>http://localhost:1313/tags/prott5/</link>
+    </image>
+    
     <item>
       <title>AMP Detection with ProtT5</title>
       <link>http://localhost:1313/project/amp-detector/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/amp-detector/</guid>
-      <description>Benchmarking shallow vs deep learning models for large‑scale antimicrobial peptide discovery.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Key contributions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Engineered consensus ensemble that boosts AUROC by 6 % over deep models on the LAMP dataset.&lt;/li&gt;
+&lt;li&gt;Integrated ProtT5 embeddings for zero‑shot inference across 1.2 M UniProt sequences.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
   </channel>
 </rss>
